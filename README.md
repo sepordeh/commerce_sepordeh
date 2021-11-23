@@ -2,10 +2,15 @@ CONTENTS OF THIS FILE
 ---------------------
 
 1- obtain your merchant code from  [Sepordeh.com](https://sepordeh.com/)
+
 2- download this module
+
 3- in your drupal >> "/admin/modules/install" select downloaded zip file
+
 4- active it
+
 5- in your drupal >> "/admin/commerce/config/payment-gateways" in plugin section select "Sepordeh (Off-site redirect)"
+
 6- enjoy it ;)
 
 

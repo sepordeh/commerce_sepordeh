@@ -26,14 +26,6 @@ REQUIREMENTS
 This module requires [Drupal Commerce](https://drupal.org/project/commerce)
 
 
-INSTALLATION
-------------
-
- * Install the Commerce Banca Intesa module as you would normally install a
-   contributed Drupal module. Visit https://www.drupal.org/node/1897420 for
-   further information.
-
-
 CONFIGURATION
 -------------
 
@@ -45,7 +37,5 @@ MAINTAINERS
 -----------
 
 Current maintainers:
- * Goran Nikolovski (gnikolovski) - https://www.drupal.org/u/gnikolovski
+ * (sepordeh) - https://www.drupal.org/u/sepordeh
 
-This project has been sponsored by:
- * Studio Present - https://www.drupal.org/studio-present
